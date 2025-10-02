@@ -1,4 +1,4 @@
-# Magist-Insights_Projects
+# Magist-Insights_Project
 
 Worked on a project using limited data from a fictional e-service firm in Brazil. The objective was to assess if forming a partnership would support our Southern European tech company’s entry into the Brazilian market.
 
